@@ -65,20 +65,20 @@ bash run.sh
 
 ## 7. 参考资料
 
-[机器学习算法-初识Learning to Rank]('https://jiayi797.github.io/2017/08/30/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95-%E5%88%9D%E8%AF%86Learning-to-Rank/')
+[机器学习算法-初识Learning to Rank](https://jiayi797.github.io/2017/08/30/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95-%E5%88%9D%E8%AF%86Learning-to-Rank/)
 
-[深入浅出排序学习：写给程序员的算法系统开发实践]('https://tech.meituan.com/2018/12/20/head-in-l2r.html')
+[深入浅出排序学习：写给程序员的算法系统开发实践](https://tech.meituan.com/2018/12/20/head-in-l2r.html)
 
-[Learn To Rank 简介]('https://www.cnblogs.com/bentuwuying/p/6681943.html')
+[Learn To Rank 简介](https://www.cnblogs.com/bentuwuying/p/6681943.html)
 
-[Learning to Rank算法介绍：RankNet，LambdaRank，LambdaMart]('https://www.cnblogs.com/bentuwuying/p/6690836.html')
+[Learning to Rank算法介绍：RankNet，LambdaRank，LambdaMart](https://www.cnblogs.com/bentuwuying/p/6690836.html)
 
-[搜索排序算法]('https://octopuscoder.github.io/2020/01/19/%E6%90%9C%E7%B4%A2%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/')
+[搜索排序算法](https://octopuscoder.github.io/2020/01/19/%E6%90%9C%E7%B4%A2%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/)
 
-[Learning-to-rank with LightGBM (Code example in python)]('https://medium.com/@tacucumides/learning-to-rank-with-lightgbm-code-example-in-python-843bd7b44574#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjJjNmZhNmY1OTUwYTdjZTQ2NWZjZjI0N2FhMGIwOTQ4MjhhYzk1MmMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MDEwMzg2NzIsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExNDg1Nzg5ODIzMDM1NDA3MDA2OSIsImVtYWlsIjoibmp1LmxpdWppOTdAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF6cCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsIm5hbWUiOiJKaSBMaXUiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dYUjFtXzBWOXpvTUJubWJHSjhaWTMtSkRBVkpKN2hNX3pPbURiPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IkppIiwiZmFtaWx5X25hbWUiOiJMaXUiLCJpYXQiOjE2MDEwMzg5NzIsImV4cCI6MTYwMTA0MjU3MiwianRpIjoiNzcyMjI1OTM3ZDljNjFkMzhmZDk5NmYyZDIwYjA0OGQxNjY3NDNiZiJ9.JFZvIZ9XcCLSf1_35-QyLm57pGaKbNWk59YXboW7Cj3Bqsqx_a3glTwyyAVHTDeTpOzsm4Z85G0L4aULxypA9L9XT2VfnLRrJnzOpxVslPoSO5StN1WPEz_ytfhBSU0zqbnMiG7Xrbjq7k-PjksIacKQZtIjA2JC2olPTx9lRNAJfrkuzelipdHXyyBy20jWONWAZjX0D-dI1TZwPl9ZFX-S6fpmVnDa-etC-WWc3Mg5zjVQcUoRNYezRB_t5ZJwDtl02c1ymhyc8RPQ5JKsr_R6A-OXBLWdR9pwv4fCglU3mCeWauGtsRQwiantQ_CMHSPTcjccwZItKKNyGY5ylw')
+[Learning-to-rank with LightGBM (Code example in python)](https://medium.com/@tacucumides/learning-to-rank-with-lightgbm-code-example-in-python-843bd7b44574#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjJjNmZhNmY1OTUwYTdjZTQ2NWZjZjI0N2FhMGIwOTQ4MjhhYzk1MmMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MDEwMzg2NzIsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExNDg1Nzg5ODIzMDM1NDA3MDA2OSIsImVtYWlsIjoibmp1LmxpdWppOTdAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF6cCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsIm5hbWUiOiJKaSBMaXUiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dYUjFtXzBWOXpvTUJubWJHSjhaWTMtSkRBVkpKN2hNX3pPbURiPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IkppIiwiZmFtaWx5X25hbWUiOiJMaXUiLCJpYXQiOjE2MDEwMzg5NzIsImV4cCI6MTYwMTA0MjU3MiwianRpIjoiNzcyMjI1OTM3ZDljNjFkMzhmZDk5NmYyZDIwYjA0OGQxNjY3NDNiZiJ9.JFZvIZ9XcCLSf1_35-QyLm57pGaKbNWk59YXboW7Cj3Bqsqx_a3glTwyyAVHTDeTpOzsm4Z85G0L4aULxypA9L9XT2VfnLRrJnzOpxVslPoSO5StN1WPEz_ytfhBSU0zqbnMiG7Xrbjq7k-PjksIacKQZtIjA2JC2olPTx9lRNAJfrkuzelipdHXyyBy20jWONWAZjX0D-dI1TZwPl9ZFX-S6fpmVnDa-etC-WWc3Mg5zjVQcUoRNYezRB_t5ZJwDtl02c1ymhyc8RPQ5JKsr_R6A-OXBLWdR9pwv4fCglU3mCeWauGtsRQwiantQ_CMHSPTcjccwZItKKNyGY5ylw)
 
-[Learning to Rank Explained (with Code)]('https://mlexplained.com/2019/05/27/learning-to-rank-explained-with-code/')
+[Learning to Rank Explained (with Code)](https://mlexplained.com/2019/05/27/learning-to-rank-explained-with-code/)
 
-[Introduction to Learning to Rank]('https://everdark.github.io/k9/notebooks/ml/learning_to_rank/learning_to_rank.html')
+[Introduction to Learning to Rank](https://everdark.github.io/k9/notebooks/ml/learning_to_rank/learning_to_rank.html)
 
-[lightGBM]('https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMRanker.html')
+[lightGBM](https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMRanker.html)
