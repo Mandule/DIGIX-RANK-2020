@@ -1,4 +1,6 @@
-# [DIGIX-RANK-2020]('https://developer.huawei.com/consumer/en/activity/devStarAI/algo/competition.html#/preliminary/info/digix-trail-02/introduction')
+# [DIGIX-RANK-2020](https://developer.huawei.com/consumer/en/activity/devStarAI/algo/competition.html#/preliminary/info/digix-trail-02/introduction)
+
+![rank](picture/rank.png)
 
 对于Web数据的搜索引擎，排序是其核心问题。提升排序的准确度能够极大提升用户的搜索体验。在本次大赛中，主办方提供用于排序模型构建的数据，参赛选手基于给定的数据构建排序模型。希望通过本次大赛挖掘搜索引擎排序算法的人才，推动搜索引擎排序算法的发展。
 
@@ -41,17 +43,18 @@
 ## 5. 目录结构
 ```
 .
-├── data
+├── data (数据目录)
 │   └── download.py
-├── src
-│   ├── lgb.py
-│   ├── lgbranker.py
-│   ├── preprocess.py
-│   ├── stacking.py
-│   ├── utils.py
-│   ├── xgb.py
-│   └── xgbranker.py
-├── run.sh
+├── src 
+│   ├── lgb.py (lgb回归模型)
+│   ├── lgbranker.py (listwise模型)
+│   ├── preprocess.py (数据预处理)
+│   ├── stacking.py (模型融合)
+│   ├── utils.py (工具类/方法)
+│   ├── xgb.py (xgb回归模型)
+│   └── xgbranker.py (listwise模型)
+├── picture
+├── run.sh (执行脚本)
 └── README.md
 ```
 
